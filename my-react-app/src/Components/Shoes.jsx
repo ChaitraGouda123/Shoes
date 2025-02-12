@@ -23,7 +23,7 @@ const Shoes = () => {
             </div>
           </div>
           <div className="item">
-            <img src="/images/shoe3.jpg" alt="Oyster Pink" />
+            <img src="https://pngimg.com/uploads/running_shoes/running_shoes_PNG5823.png" alt="Oyster Pink" />
             <div>
               <p>New Balance 57/40 Women's - Oyster Pink</p>
               <p>$149.00</p>
